@@ -1,0 +1,12 @@
+
+
+input.tanglify {
+	width: 30px;
+}
+.tanglify_value[type=number] {
+	width: 60px;
+}
+.tanglify_value[type=range] {
+	width: 100px;
+	vertical-align: top;
+}
